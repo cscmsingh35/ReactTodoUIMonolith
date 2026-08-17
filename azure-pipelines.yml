@@ -5,4 +5,4 @@ steps:
 - task: PowerShell@2
   inputs:
     targetType: 'inline'
-    script: 'Write-Host "Hello World"'
+    script: 'Write-Host "Hello beautiful World"'
